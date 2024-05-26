@@ -1,2 +1,2 @@
 # odin-recipes
-Hello, I'm currently doing the this assignment.
+Hello, I finished this assignment!
